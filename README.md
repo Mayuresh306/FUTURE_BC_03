@@ -23,7 +23,7 @@ Create **fun, relatable memes** based on experiences and realities in the **Web3
 
 | Meme | Description |
 |------|-------------|
-| ![Solo dApp Launch Meme](./assets/supermeme_13h33_28.png) | **"Solo dApp Launch"**<br>Excitement before launching your first dApp vs. Reality after debugging errors, tracing stack logs, and crying over gas fees. A classic journey for every new Solidity developer. |
+| ![Solo dApp Launch Meme](./firstdapp.png) | **"Solo dApp Launch"**<br>Excitement before launching your first dApp vs. Reality after debugging errors, tracing stack logs, and crying over gas fees. A classic journey for every new Solidity developer. |
 | ![Metamask Gas Fees Meme](./assets/supermeme_14h1_25.png) | **"Ethereum Moment"**<br>When you're all set to mint a $1 NFT... but Metamask hits you with a $50 gas fee. We’ve all been there. 💀|
 
 ---
